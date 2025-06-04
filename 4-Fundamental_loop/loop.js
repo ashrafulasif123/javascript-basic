@@ -1,3 +1,21 @@
+
+// BASIC LOOP
+/**
+ * যদি আমি array reverse করতে চাই তাহলে কিভাবে করব for of দিয়ে
+ * i-- দিয়ে তো করা যায়
+ */
+
+// const students = ['rahim', 'karim', 'selim', 'jubbar']
+
+/* for(const student of students){
+    console.log(student)
+} */
+/* for(let i = students.length - 1; i >= 0; i--){
+    // console.log(students[i])
+} */
+
+
+
 // even or odd number by for && While
 // const numbers = [25, 100, 55, 11, 9, 10]
 //while loop
